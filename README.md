@@ -1,2 +1,2 @@
 # SpaceInvadersClone
-A small Space Invaders clone made in Unity
+A small Space Invaders clone I made in Unity
