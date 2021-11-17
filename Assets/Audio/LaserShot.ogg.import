@@ -1,0 +1,16 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOGGVorbis"
+uid="uid://craqh8ubvo2l0"
+path="res://.godot/imported/LaserShot.ogg-608cff9485b035681d27fa5e9ece9fa5.oggvorbisstr"
+
+[deps]
+
+source_file="res://GitHub/VaquerosInvasores/Si/Assets/Audio/LaserShot.ogg"
+dest_files=["res://.godot/imported/LaserShot.ogg-608cff9485b035681d27fa5e9ece9fa5.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0

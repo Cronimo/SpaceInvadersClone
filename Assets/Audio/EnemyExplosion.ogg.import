@@ -1,0 +1,16 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOGGVorbis"
+uid="uid://33xp14keirjk"
+path="res://.godot/imported/EnemyExplosion.ogg-e2e8457bb6ce212346435702a67eff75.oggvorbisstr"
+
+[deps]
+
+source_file="res://GitHub/VaquerosInvasores/Si/Assets/Audio/EnemyExplosion.ogg"
+dest_files=["res://.godot/imported/EnemyExplosion.ogg-e2e8457bb6ce212346435702a67eff75.oggvorbisstr"]
+
+[params]
+
+loop=true
+loop_offset=0
