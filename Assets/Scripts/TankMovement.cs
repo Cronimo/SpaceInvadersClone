@@ -9,7 +9,7 @@ public class TankMovement : MonoBehaviour
 
     private bool introPlaying;
 
-    private float speed = 25;
+    private float speed = 11;
     private float isMoving;
     public static float bulletCount;
 
